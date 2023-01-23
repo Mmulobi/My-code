@@ -17,7 +17,7 @@ int main()
 
 	Area = 0.5 * b * h;
 
-	printf("The area of triangle is: %d", Area);
+	printf("\nThe area of triangle is: %d", Area);
 
 	return (0);
 }
